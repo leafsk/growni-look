@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin
+Disallow: /auth/action
+Disallow: /auth/registration
+Disallow: /auth/verify-email
+Disallow: /blog/create
+Disallow: /blog/edit
+Disallow: /intros
+Disallow: /profile
+Disallow: /u
+
+Sitemap: https://growni.sk/sitemap.xml
