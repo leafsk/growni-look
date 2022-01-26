@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[226],{2299:function(module,exports,__webpack_require__){"use strict";__webpack_require__(61),__webpack_require__(9),__webpack_require__(5),Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=function fullName(user){return[user.firstName,user.lastName].filter(Boolean).join(" ")}}}]);
